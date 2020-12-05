@@ -45,3 +45,4 @@ df1 = DataFrame({'name':['ZhangFei', 'GuanYu', 'a', 'b', 'c'], 'data1':range(5)}
 pysqldf = lambda sql: sqldf(sql, globals())
 sql = "select * from df1 where name ='ZhangFei'"
 print( pysqldf(sql))
+
