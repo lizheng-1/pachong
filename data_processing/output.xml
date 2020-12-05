@@ -1,0 +1,48 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>1-MAIN-sheep-and-lambs-142015-22608-c-Tim-Scrivener.jpg</filename>
+    <path>Sheeps-PascalVOC-export/Annotations/1-MAIN-sheep-and-lambs-142015-22608-c-Tim-Scrivener.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>900</width>
+        <height>507</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>sheep</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin updated="yes">188.71860621165644</xmin>
+        <ymin>226.64326225045372</ymin>
+        <xmax>330.0086273006135</xmax>
+        <ymax>485.6138129537205</ymax>
+    </bndbox>
+</object><object>
+    <name>sheep</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin updated="yes">280.7647143404908</xmin>
+        <ymin>8.15550561479129</ymin>
+        <xmax>568.4132956288344</xmax>
+        <ymax>495.0704613770418</ymax>
+    </bndbox>
+</object><object>
+    <name>sheep</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin updated="yes">560.7529716257669</xmin>
+        <ymin>153.28684352313974</ymin>
+        <xmax>693.4983703987731</xmax>
+        <ymax>439.7898636002722</ymax>
+    </bndbox>
+</object>
+</annotation>
